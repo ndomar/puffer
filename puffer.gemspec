@@ -21,7 +21,6 @@ Gem::Specification.new do |s|
   # specify any dependencies here; for example:
   s.add_runtime_dependency(%q<rails>, [">= 3.1"])
   s.add_runtime_dependency(%q<kaminari>, [">= 0"])
-  s.add_runtime_dependency(%q<orm_adapter>, [">= 0.4.0"])
 
   s.add_development_dependency(%q<sqlite3>, [">= 0"])
   s.add_development_dependency(%q<mongoid>, ["~> 2.4"])
